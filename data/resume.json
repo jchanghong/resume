@@ -27,12 +27,13 @@
             "type": "linkedin",
             "link": "http://www.linkedin.com/in/%E9%95%BF%E7%BA%A2-%E8%92%8B-b03396116/",
             "icon": ""
+        }
+	,
+        {
+            "type": "twitter",
+            "link": "https://twitter.com/Jayin_Ton",
+            "icon": ""
         },
-//        {
-//            "type": "twitter",
-//            "link": "https://twitter.com/Jayin_Ton",
-//            "icon": ""
-//        },
         {
             "type": "home",
             "link": "http://ljx520.cn",
@@ -62,12 +63,12 @@
             "name_link": "",
             "description": "大学唯一加入的组织，主要是大学本科学校里面课程是c++和c语言，所以和团队里面的成员一起学校qt的gui开发"
         }
-//	,
-//        {
-//            "name": "组织3次校内开发者交流会",
-//            "name_link": "http://wuyiuniversity.github.io/",
-//            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
-//        }
+	,
+        {
+            "name": "组织3次校内开发者交流会",
+            "name_link": "http://wuyiuniversity.github.io/",
+            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+        }
     ],
     "InternExperiences": [
         {
@@ -117,8 +118,8 @@
             "time": "2015.9 - 2015.12",
             "location": ""
         }
-//	,
-       /* {
+	,
+        {
             "name": "更多",
             "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
             "title": "",
@@ -126,6 +127,6 @@
             "description": "",
             "time": "",
             "location": ""
-        }*/
+        }
     ]
 }
