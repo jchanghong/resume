@@ -28,14 +28,14 @@
             "link": "",
             "icon": ""
         },
-       /* {
+        {
             "type": "twitter",
             "link": "https://twitter.com/Jayin_Ton",
             "icon": ""
-        },*/
+        },
         {
             "type": "home",
-            "link": "http://ljx520.cn",
+            "link": "http://jayinton.com",
             "icon": ""
         }
     ],
