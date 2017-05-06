@@ -2,40 +2,40 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "唐杰英",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
-        "profession": "计算机科学与技术",
+        "name": "蒋长红",
+        "description": "做好自己的事情，就该无悔",
+        "school": "电子科技大学",
+        "profession": "软件工程",
         "sex": "男",
-        "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "education" : "硕士",
+        "workage": "2018届毕业",
+        "phone": "15608041358",
+        "email": "jiangcanghong@gmail.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/jchanghong",
             "icon": ""
         },
         {
             "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
+            "link": "http://weibo.com/master500236",
             "icon": ""
         },
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
+            "link": "",
             "icon": ""
         },
-        {
+       /* {
             "type": "twitter",
             "link": "https://twitter.com/Jayin_Ton",
             "icon": ""
-        },
+        },*/
         {
             "type": "home",
-            "link": "http://jayinton.com",
+            "link": "http://ljx520.cn",
             "icon": ""
         }
     ],
